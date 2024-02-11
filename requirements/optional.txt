@@ -28,3 +28,4 @@ snakeviz # for profiling
 cryptography
 xgboost
 torchvision
+dnspython>=2.6.0rc1 # not directly required, pinned by Snyk to avoid a vulnerability
