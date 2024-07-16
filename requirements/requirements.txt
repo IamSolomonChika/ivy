@@ -13,3 +13,4 @@ pyvis
 dill
 astunparse
 ml-dtypes # mod_name=ml_dtypes
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
